@@ -1,0 +1,12 @@
+{
+  "name": "@eins78/styles",
+  "version": "1.0.0",
+  "description": "css styles",
+  "homepage": "https://github.com/eins78/styles#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eins78/styles.git"
+  },
+  "license": "CC0-1.0",
+  "author": "Max F. Albrecht <1@178.is>"
+}
